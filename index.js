@@ -1,0 +1,1 @@
+console.log('Papermoon - Obtaining the Module Name');
